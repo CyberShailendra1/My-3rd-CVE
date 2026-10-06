@@ -19,7 +19,7 @@ A vulnerability was determined in **PHPGurukul User Registration & Login and Use
 ---
 
 ## 🔬 Analysis
-*by VulDB Data Team • 10/06/2026*
+* 10/06/2026*
 
 The PHPGurukul User Registration, Login, and User Management System version 3.3 contains a critical authentication bypass vulnerability within its administrative change password functionality. This flaw resides in the `loginsystem/admin/change-password.php` file, specifically affecting the function responsible for validating user credentials during password modification operations. 
 
